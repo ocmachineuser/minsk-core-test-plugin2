@@ -21,7 +21,7 @@ grails.project.dependency.resolution = {
         // regular plugins
         // runtime('com.jcatalog.grailsplugins:jcatalog-ui-tags:7.23.GA.16')
         // @insert_dependencies_plugins_after_this_line
-        runtime('com.jcatalog.grailsplugins:minsk-core-test-node-plugin1:1.0.0-SNAPSHOT')
+        runtime('com.jcatalog.grailsplugins:minsk-core-test-node-plugin1:1.0.0')
 
     }
 }
