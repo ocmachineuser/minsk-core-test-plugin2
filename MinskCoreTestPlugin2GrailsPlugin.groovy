@@ -1,5 +1,5 @@
 class MinskCoreTestPlugin2GrailsPlugin {
-    def version = "1.0.GA"
+    def version = "1.0.GA.1-SNAPSHOT"
     def groupId = "com.jcatalog.grailsplugins"
     def grailsVersion = "2.4 > *"
 
